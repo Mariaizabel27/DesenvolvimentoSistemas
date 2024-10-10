@@ -1,0 +1,11 @@
+Podemos concluir que o 
+git init é utilizado para iniciar, mkdir nome_pasta  utilizado para criar pasta,
+cd nome_pasta utilizado para abrir uma pasta
+git add utilizado para adicionar um arquivo no git hub ou em alguma pasta,
+git commit -m criando o commit para adicionar arquivo,
+git push -u origin master  utilizado para puxar o arquivo e enviar para o git hub,
+ git status você visualiza em qual lugar está
+git remote add .link utilizado antes da criação do commit para colocar a pasta no repositório criado no GitHub, 
+dir serve para ver oque esta dentro da pasta,
+git user.email --global"email" serve para colocar o email da pessoa no git bash,
+git user.name --global"nome_da_pessoa" serve para colocar o nome da pessoa no git bash.
